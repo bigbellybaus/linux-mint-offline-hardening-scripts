@@ -34,7 +34,7 @@ Choose "Open in Terminal" or a similar option depending on your file manager. Th
 
 2. **Run the Scripts**
 
-We've got a collection of scripts for different security aspects. Run the one you need using Python 3. For example, to disable Bluetooth, use:
+We've got a collection of scripts for different security aspects. Run the one you need using Python 3. For example, to disable Bluetooth permanently, use:
 ```
 sudo python3 disablebt.py
 ```
